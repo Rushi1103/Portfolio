@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c1b4c17.css",
+    "main.js": "/static/js/main.09238183.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/Rushikesh Handore.pdf": "/static/media/Rushikesh Handore.c81d221d9e7455b3cf07.pdf",
+    "static/media/projectthree.jpg": "/static/media/projectthree.9843c1b4f3edf9163b0d.jpg",
+    "static/media/projectone.jpg": "/static/media/projectone.5ef2c4d741bfbbd5e36d.jpg",
+    "static/media/projecttwo.jpg": "/static/media/projecttwo.68ef0f7f0bec03a05e20.jpg",
+    "static/media/photo.jpeg": "/static/media/photo.135a4f63d8b805d64eda.jpeg",
+    "index.html": "/index.html",
+    "main.2c1b4c17.css.map": "/static/css/main.2c1b4c17.css.map",
+    "main.09238183.js.map": "/static/js/main.09238183.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1b4c17.css",
+    "static/js/main.09238183.js"
+  ]
+}
